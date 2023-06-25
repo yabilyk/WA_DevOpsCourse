@@ -1,2 +1,2 @@
-print('Hello Ukraine!')
-print('New string')
+for _ in range(3):
+    print("Hello World!")
